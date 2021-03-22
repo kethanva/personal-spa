@@ -13,7 +13,7 @@ function Hero() {
                     <p className="subtitle is-5 has-text-weight-light">I'm a</p>
                     <h4 className="title">
                         <div className="rw-words-1">
-                            <span>Full Stack Developer</span>
+                            <span>Full Stack Engineer</span>
                             <span>Software Architect</span>
                             <span>SRE</span>
                             <span>DevOps Engineer</span>
@@ -23,7 +23,7 @@ function Hero() {
                     </h4>
                     <br/>
                     <br/>
-                    <h2 className="subtitle">
+                    <h2 className="subtitle"><i class="fas fa-location-arrow fa-xs" ></i> &nbsp;
                         {Resume.basics.location.region}, {Resume.basics.location.country}
                     </h2>
                     <div className="columns small-container">
