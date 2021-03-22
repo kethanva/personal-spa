@@ -23,7 +23,7 @@ function Hero() {
                     </h4>
                     <br/>
                     <br/>
-                    <h2 className="subtitle"><i class="fas fa-location-arrow fa-xs" ></i> &nbsp;
+                    <h2 className="subtitle"><i class="fas fa-xs fa-location-arrow " ></i> &nbsp;
                         {Resume.basics.location.region}, {Resume.basics.location.country}
                     </h2>
                     <div className="columns small-container">

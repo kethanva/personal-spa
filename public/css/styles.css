@@ -14,6 +14,14 @@ html {
     background-attachment: fixed;
     background-size: cover;
 }
+
+.btn-primary-outline{
+    background-color: transparent;
+    /*border-color: transparent;
+    box-shadow: none;*/ 
+    color: #ffffff;
+}
+
 .bulma-image {
     width: 200px;
 }
@@ -43,6 +51,35 @@ html {
 .contact-image{
     padding-left: 12px;
     padding-bottom: 20px;
+}
+
+.transboxs{
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+.transbox{
+    opacity: 0.5;
+    color: #ffffff;
+    background-color: #ffffff;
+}
+.transbox:hover{
+    opacity: 0.2;
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+
+.button{
+    border-color: transparent;
+    background-color: transparent;
+    color:#ebe9e9;
+}
+
+.button:hover{
+    color:#ebe7ee8e;
 }
 
 .align-right{
