@@ -1,0 +1,208 @@
+{
+  "basics": {
+    "name": "Kethan VA",
+    "label": "DevOps Engineer",
+    "picture": "images/covers.jpg",
+    "x_pictureFallback": "images/covers.jpg",
+    "x_title": "Hey There! Glad to see you here",
+    "summary": "Cloud Architect",
+    "location": {
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Bangalore"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kethanva",
+        "url": "https://linkedin.com/in/kethan-va",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "kethanva",
+        "url": "https://github.com/kethanva",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "VMware",
+      "position": "DevOps & SRE Engineer",
+      "website": "https://www.vmware.com",
+      "startDate": "2013-11-15",
+      "endDate": "",
+      "summary": "VMC on AWS, VCenter, EAM",
+      "highlights": []
+    },
+    {
+      "company": "CGI",
+      "position": "Software Engineer",
+      "website": "https://www.cgi.com",
+      "startDate": "2012-01",
+      "endDate": "2013-11",
+      "summary": "Retail Banking System",
+      "highlights": []
+    },
+    {
+      "company": "Tavant",
+      "position": "Software Engineer",
+      "website": "https://www.tavant.com",
+      "startDate": "2011-03",
+      "endDate": "2012-01",
+      "summary": "Warranty Management",
+      "highlights": []
+    },
+    {
+      "company": "Mphasis",
+      "position": "Software Engineer ",
+      "website": "https://www.mphasis.com",
+      "startDate": "2008-12",
+      "endDate": "2011-03",
+      "summary": "Retail Product and Warehouse management",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "KSIT",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2004-03",
+      "endDate": "2008-03"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud(AWS, Azure, GCP)",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting(Py/Shell)",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate Upper",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Ansible",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Influx",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "ELK Stack",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Hibernate",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Spring5 / Spring Boot",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "React/JS",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate Upper",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB/Cassandra",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Traveller",
+      "x_icon": "fa-globe-americas"
+    },
+    {
+      "name": "Biker",
+      "x_icon": "fa-motorcycle"
+    },
+    {
+      "name": "Geek",
+      "x_icon": "fa-user-ninja"
+    }
+  ]
+}
