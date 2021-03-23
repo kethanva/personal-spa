@@ -16,10 +16,10 @@ class NavBar extends React.Component {
 
   render() {
     return (
-      <nav className="navbar is-transparent header">
+      <nav className="navbar header">
         <div className="container">
           <div className="navbar-brand">
-            <a href="/" className="navbar-item title is-unselectable name">
+            <a href="/" className="navbar-item title is-unselectable name is-transparent">
                 {Resume.basics.name}
             </a>
             <span
@@ -36,12 +36,23 @@ class NavBar extends React.Component {
               (this.state.showMenu ? "is-active" : null)
             }
           >
+            
+
+
             <div className="navbar-end" onClick={this.handleMenuClick}>
-              <MenuItem text="About Me" href="#aboutMe" />
-              <MenuItem text="Skills" href="#skills" />
-              <MenuItem text="Experience" href="#experience" />
-              <MenuItem text="Contact" href="#contact" />
+              <div class="navbar-item">
+                <div class="buttons">
+
+                  <MenuItem text="About Me" href="#aboutMe" />
+                  <MenuItem text="Skills" href="#skills" />
+                  <MenuItem text="Experience" href="#experience" />
+                  <MenuItem text="Contact" href="#contact" />
+
+                </div>
+              </div>
             </div>
+
+
           </div>
         </div>
       </nav>
