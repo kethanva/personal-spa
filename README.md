@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Run
 nvm use 14
-npm run build
 npm install -g serve
+npm install -g
+npm run build
 serve -s build
