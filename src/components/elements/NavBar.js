@@ -30,14 +30,10 @@ class NavBar extends React.Component {
               <span></span>
             </span>
           </div>
-          <div
-            className={
-              "navbar-menu nav-menu " +
+          <div className={ "navbar-menu nav-menu " +
               (this.state.showMenu ? "is-active" : null)
             }
           >
-            
-
 
             <div className="navbar-end" onClick={this.handleMenuClick}>
               <div class="navbar-item">
@@ -51,7 +47,6 @@ class NavBar extends React.Component {
                 </div>
               </div>
             </div>
-
 
           </div>
         </div>
